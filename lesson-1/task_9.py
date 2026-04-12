@@ -1,0 +1,1 @@
+print("This is {0}. It’s {1}! I {2} like programming! It’s {4}!".format("Python", "cool", "really", "programming", "cool")) 

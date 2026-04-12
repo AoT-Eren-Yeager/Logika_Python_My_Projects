@@ -1,0 +1,6 @@
+first_name = input("Введіть своє ім'я: ")
+last_name =  input("Введіть своє прізвище: ")
+age = int(input("Введіть скільки вам років: "))
+favorite_color = input("Введіть свій улюблений колір: ")
+favorite_meal = input("Введіть свою улюблену страву: ")
+print("My name is: " + first_name + ". Last name: " + last_name + ". Age: " + str(age) + ". Favorite color: " + favorite_color + ". Favorite meal: " + favorite_meal + ".")
